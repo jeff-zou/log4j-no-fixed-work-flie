@@ -1,3 +1,5 @@
+重写log4j的DailyRollingFileAppender.java类，支持按时间划分文件夹，并且支持限制单个文件大小
+
 # log4j-no-fixed-work-flie
 log4j will write log on dynamic file whose names has been formatted by "DatePattern :
 
